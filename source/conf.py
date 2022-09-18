@@ -6,14 +6,14 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Documentation'
-copyright = '2022, Cameron Goddard'
-author = 'Cameron Goddard'
+project = 'Cislunar Explorers'
+copyright = '2022, Adam Nasir, Cameron Goddard, Tanya Zhou, Andrew Chen'
+author = 'Adam Nasir, Cameron Goddard, Tanya Zhou, Andrew Chen'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ["sphinx_rtd_theme"]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -23,5 +23,5 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
