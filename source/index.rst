@@ -10,10 +10,10 @@ Welcome to Cislunar Explorers' documentation!
    :maxdepth: 2
    :caption: Contents:
 
-flight_software/index
-ground_software/index
-cislunar_sim/index
-opnav/index
-onboarding/index
+   flight_software/index
+   ground_software/index
+   cislunar_sim/index
+   opnav/index
+   onboarding/index
 
 
