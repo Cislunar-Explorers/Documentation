@@ -2,11 +2,13 @@
    sphinx-quickstart on Sat Sep 17 15:40:52 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-=============================================
-Welcome to Cislunar Explorers' documentation!
-=============================================
+==================================
+Cislunar Explorers Software Manual
+==================================
 
-This manual contains high level documentation for the `Cislunar Explorers mission <https://www.spacecraftresearch.com/lunar-cubesat-fe>`_.
+This manual contains high level documentation for the `Cislunar Explorers <https://www.spacecraftresearch.com/lunar-cubesat-fe>`_ mission, a part of the `Space Systems Design Studio <https://www.spacecraftresearch.com/>`_ at Cornell University.
+
+The project GitHub can be found `here <https://github.com/Cislunar-Explorers>`_.
 
 .. toctree::
    :maxdepth: 2
@@ -17,5 +19,3 @@ This manual contains high level documentation for the `Cislunar Explorers missio
    cislunar_sim/index
    opnav/index
    onboarding/index
-
-
