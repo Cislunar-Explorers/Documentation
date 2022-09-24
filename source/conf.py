@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Cislunar Explorers'
-copyright = '2022, Adam Nasir, Cameron Goddard, Tanya Zhou, Andrew Chen'
-author = 'Adam Nasir, Cameron Goddard, Tanya Zhou, Andrew Chen'
+copyright = '2022, Cislunar Explorers'
+author = 'Cislunar Explorers'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

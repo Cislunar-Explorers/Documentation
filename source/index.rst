@@ -12,9 +12,9 @@ Welcome to Cislunar Explorers' documentation!
 
 
 
-Indices and tables
+
+
+Contents:
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
