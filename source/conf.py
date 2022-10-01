@@ -14,7 +14,11 @@ author = 'Cislunar Explorers'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 import sphinx_rtd_theme
 
-extensions = ["sphinx_rtd_theme"]
+extensions = ["sphinx_rtd_theme", "subprojecttoctree"]
+
+# Configure these docs to be the main project of the other docs
+is_subproject = False
+readthedocs_url = "https://cislunar-explorers-software-documentation.readthedocs.io"
 
 templates_path = ['_templates']
 exclude_patterns = []
