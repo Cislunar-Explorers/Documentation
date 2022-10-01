@@ -10,16 +10,17 @@ Necessary Accounts
 Create accounts for:
 
 * `GitHub <https://github.com/>`_ (Not Cornell's Enterprise GitHub)
+* `Read the Docs <https://readthedocs.org/>`_
 * `VNC Viewer <https://www.realvnc.com/en/connect/download/viewer/>`_
 
-Provide Adam with your GitHub username so we can add you to the organization.
+Provide us with your GitHub and RTD usernames so we can add you to the organizations.
 
 Coding Environment Setup
 ------------------------
 
 You may use any Python-capable coding environment, but team members currently use `VS Code <https://code.visualstudio.com/>`_, so getting help and support will be easier if you use it too.
 
-Also, make sure `Git <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>`_ and `Python <https://www.python.org/downloads/>`_ are installed on your computer.
+Also, make sure `Git <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>`_ and `Python <https://www.python.org/downloads/>`_ are installed on your computer (They mostly likely are already).
 
 Next Steps
 ----------
