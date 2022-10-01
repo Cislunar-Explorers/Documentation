@@ -2,7 +2,7 @@
 Onboarding
 ==========
 
-This onboarding doc is derived from the `full-team onboarding doc<https://cornell.app.box.com/file/915225541440>`_ on Box. Feel free to add to this doc if you want!
+This onboarding doc is derived from the `full-team onboarding doc <https://cornell.app.box.com/file/915225541440>`_ on Box. Feel free to add to this doc if you want!
 
 Necessary Accounts
 ------------------
