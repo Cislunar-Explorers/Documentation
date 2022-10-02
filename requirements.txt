@@ -1,2 +1,2 @@
 sphinx-rtd-theme==0.4.3
-sphinx-subprojecttoctree==0.4.0
+sphinx-subprojecttoctree==0.1.4
