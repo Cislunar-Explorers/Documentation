@@ -11,7 +11,7 @@ This manual contains high level documentation for the `Cislunar Explorers <https
 
 The project GitHub can be found `here <https://github.com/Cislunar-Explorers>`_.
 
-.. subprojecttoctree::
+.. toctree::
    :maxdepth: 2
    :caption: Contents:
 
@@ -20,4 +20,4 @@ The project GitHub can be found `here <https://github.com/Cislunar-Explorers>`_.
    cislunar_sim/index
    opnav/index
    onboarding/index
-   Repository <subproject: CislunarSim>
+   
